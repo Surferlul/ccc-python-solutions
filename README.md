@@ -1,1 +1,1 @@
-# ccc-python-solutions
+# Solutions to the Computer Sience Circles Python course
