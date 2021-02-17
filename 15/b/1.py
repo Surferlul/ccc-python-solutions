@@ -1,7 +1,6 @@
 temp = input()
-if "C" in temp:
-   temp = float (temp[:-1])
-   print(temp*9/5+32, "F", sep="")
+temp_num = float (temp[:-1])
+if "C" == temp[-1]:
+   print(temp_num*9/5+32, "F", sep="")
 else:
-   temp = float (temp[:-1])
-   print((temp-32)*5/9, "C", sep="")
+   print((temp_num-32)*5/9, "C", sep="")
