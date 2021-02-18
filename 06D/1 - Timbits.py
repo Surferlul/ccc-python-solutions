@@ -12,5 +12,5 @@ if timbitsLeft >= 10:
     totalCost += 1.99
     timbitsLeft -= 10
 
-totalCost += timbitsLeft * 0.20 # step 6
+totalCost += timbitsLeft * 0.20
 print(totalCost)
