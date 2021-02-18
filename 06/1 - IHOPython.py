@@ -1,5 +1,5 @@
 pancakes = int(input())
 if pancakes > 3:
    print("Yum!")
-else:
+else: #if pancakes < 3:
    print("Still hungry!")
