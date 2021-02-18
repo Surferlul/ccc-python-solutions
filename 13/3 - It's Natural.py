@@ -4,5 +4,5 @@ def naturalNumbers(n):
       out += [i+1]
    return out
 
-#def naturalNumbers(n):
-#   return [i+1 for i in range(n)]
+# def naturalNumbers(n):
+#    return [i+1 for i in range(n)]
