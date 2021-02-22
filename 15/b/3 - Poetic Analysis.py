@@ -11,6 +11,4 @@ max = ["", 0]
 for i in amount:
    if amount[i] > max[1]:
       max = [i, amount[i]]
-   else:
-      pass
 print(max[0])
